@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Data Structure and algorith, and Rest Apis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Ans:- Instagram :== https://www.instagram.com/s.a.m.e.e.r.0.0.7
-- 📽 # A Yotube with 121 Subscriber
+- 📽 # A Yotube with 144 Subscriber
 -  ⚡ Fun fact: I an a person who fixed a problem that you don't know you have, in a way you don't understand
 
 
