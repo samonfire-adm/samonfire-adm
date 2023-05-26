@@ -13,8 +13,8 @@
 [![Views](https://img.shields.io/youtube/views/Lmdf56JQ7t4?style=social)](https://youtu.be/Lmdf56JQ7t4)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhg-rgb&theme=dracula" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rishabhg-rgb&theme=dracula" width="400px">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samonfire-adm&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=samonfire-adm&theme=dracula" width="400px">
 
 
 <!---
