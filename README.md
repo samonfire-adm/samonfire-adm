@@ -14,7 +14,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhg-rgb&theme=dracula" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=samonfire-adm&theme=dracula" width="400px">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rishabhg-rgb&theme=dracula" width="400px">
 
 
 <!---
