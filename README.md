@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-dey-54b5701b3/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sameerdeytalk)
-[![Subscriber](https://img.shields.io/youtube/channel/subscribers/UC9QjdDFA-Pvv-xDPvxhqVSA?style=social)]([https://www.youtube.com/c/RochakEducation](https://www.youtube.com/channel/UCMYZ5Q-366NSx5f3fZZmd_w))
+[![Subscriber](https://img.shields.io/youtube/channel/subscribers/UC9QjdDFA-Pvv-xDPvxhqVSA?style=social)]((https://www.youtube.com/channel/UCMYZ5Q-366NSx5f3fZZmd_w))
 [![Views](https://img.shields.io/youtube/views/Lmdf56JQ7t4?style=social)](https://youtu.be/Lmdf56JQ7t4)
 
 
