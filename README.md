@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sameer Dey
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1555991754528043008/1709548045/600x200)
+#### and I am a educator and a Freelancer
+![and I am a educator and a Freelancer](https://pbs.twimg.com/profile_banners/1555991754528043008/1709548045/600x200)
 
 ---
 <details style="display:inline">
