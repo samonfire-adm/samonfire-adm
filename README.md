@@ -1,7 +1,5 @@
-### Hi there 👋, My name is Sameer Dey
-#### and I am a educator and a Freelancer
-![and I am a educator and a Freelancer](https://pbs.twimg.com/profile_banners/1555991754528043008/1709548045/600x200)
-
+# Samonfire-adm aka Sameer Dey
+**`The Coding Maverick(Developer/Educator/Freelancer/Content Creator)`**
 ---
 <details style="display:inline">
 <summary><h3>Who is Sameer Dey </h3></summary>
@@ -13,3 +11,8 @@
 
 🚀 Alongside teaching, I also delve into freelancing projects, leveraging my technical skills to solve real-world problems and contribute to exciting ventures. This side hustle allows me to stay updated with industry trends, collaborate with diverse teams, and continuously sharpen my expertise.
 </details>
+
+![and I am a educator and a Freelancer](https://pbs.twimg.com/profile_banners/1555991754528043008/1709548045/600x200)
+
+---
+
