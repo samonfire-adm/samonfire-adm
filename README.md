@@ -3,7 +3,7 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1555991754528043008/1709548045/600x200)
 
 ---
-<details>
+<details style="display:inline">
 <summary><h3>Who is Sameer Dey </h3></summary>
 👋 Hello there! I'm Sameer Dey, a passionate educator who loves sharing knowledge both online and offline. With a background in teaching, I've had the privilege of guiding over 1000 students through various learning platforms and in-person sessions.
 
