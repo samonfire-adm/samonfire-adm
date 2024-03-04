@@ -84,7 +84,7 @@
 ###
 
 ---
-<img src="https://raw.githubusercontent.com/samonfire-adm/samonfire-adm/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/samonfire-adm/samonfire-adm/blob/output/github-contribution-grid-snake.gif)
 
 
 ###
