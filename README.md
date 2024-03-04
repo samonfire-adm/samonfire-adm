@@ -15,8 +15,6 @@
 
 </details>
 
-![and I am a educator and a Freelancer]
-
 ---
 
 ### 🦾 🧰 Languages and Tools 🔨 🧰
