@@ -1,4 +1,4 @@
-![(https://github.com/samonfire-adm/samonfire-adm/blob/main/Untitled-1.png)]
+
 # 🔥Samonfire-adm aka Sameer Dey
 
 ## **`The Coding Maverick(Developer/Educator/Freelancer/Content Creator)`**
@@ -15,7 +15,7 @@
 
 </details>
 
-![and I am a educator and a Freelancer]
+![and I am a educator and a Freelancer](https://pbs.twimg.com/profile_banners/1555991754528043008/1709548045/600x200)
 
 ---
 
