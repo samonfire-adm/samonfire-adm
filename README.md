@@ -1,4 +1,4 @@
-# Samonfire-adm aka Sameer Dey
+# 🔥Samonfire-adm aka Sameer Dey
 **`The Coding Maverick(Developer/Educator/Freelancer/Content Creator)`**
 ---
 <details style="display:inline">
