@@ -61,7 +61,12 @@
 
 ### 📽️My Videos 🎥
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Class 09 Maths Natural Numbers](https://ytcards.demolab.com/?id=6OQkD3hEYe0&title=Class+09+Maths+Natural+Numbers&lang=en&timestamp=1779147743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Class 09 Maths Natural Numbers")](https://www.youtube.com/watch?v=6OQkD3hEYe0)
+[![Class 9 Matter in our surrounding](https://ytcards.demolab.com/?id=91X5_w4bZM4&title=Class+9+Matter+in+our+surrounding&lang=en&timestamp=1779143952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Class 9 Matter in our surrounding")](https://www.youtube.com/watch?v=91X5_w4bZM4)
+[![Best of the CMD tricks #shorts #programming #cmd](https://ytcards.demolab.com/?id=Oouot3MzTpo&title=Best+of+the+CMD+tricks+%23shorts+%23programming+%23cmd&lang=en&timestamp=1761367803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best of the CMD tricks #shorts #programming #cmd")](https://www.youtube.com/shorts/Oouot3MzTpo)
+[![5 website to practice mock interview | Rochak Education | #tranings #expertskill #quicklearners](https://ytcards.demolab.com/?id=aImAGhzqDZY&title=5+website+to+practice+mock+interview+%7C+Rochak+Education+%7C+%23tranings+%23expertskill+%23quicklearners&lang=en&timestamp=1727501413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 website to practice mock interview | Rochak Education | #tranings #expertskill #quicklearners")](https://www.youtube.com/shorts/aImAGhzqDZY)
+[![Best DSA Resources #coding  #dsaforbeginners #dsa #exam #dsaguide #joindsa #dsachallenge](https://ytcards.demolab.com/?id=d4m0tTHBB78&title=Best+DSA+Resources+%23coding++%23dsaforbeginners+%23dsa+%23exam+%23dsaguide+%23joindsa+%23dsachallenge&lang=en&timestamp=1726752872&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best DSA Resources #coding  #dsaforbeginners #dsa #exam #dsaguide #joindsa #dsachallenge")](https://www.youtube.com/shorts/d4m0tTHBB78)
+[![Day 1 Of DSA Delivery | #dsa #shorts](https://ytcards.demolab.com/?id=vmntt86LkDI&title=Day+1+Of+DSA+Delivery+%7C+%23dsa+%23shorts&lang=en&timestamp=1722782220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 1 Of DSA Delivery | #dsa #shorts")](https://www.youtube.com/shorts/vmntt86LkDI)
 <!-- END YOUTUBE-CARDS -->
 
 #
